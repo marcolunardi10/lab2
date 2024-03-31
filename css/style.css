@@ -3,7 +3,34 @@
     text-align: center;
 }
 
-#descricao{
+#cc{
+    margin-right: 30px;
+    width: 100px;
+}
+
+#filosofia{
+    margin-right: 30px;
+    width: 100px;
+}
+
+
+#botoes {
+    display: flex;
+}
+
+#escolha{
+    margin-right: 20px;
+    margin-left: 400px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+#body{
+    background-color: white;
+}
+
+.descricao{
     font-size: 20px;
     text-align: center;
 }
@@ -11,6 +38,7 @@
 #tema{
     width: 80px;
     height: 35px;
+    text-align: center;
 }
 
 #logo{
@@ -43,6 +71,12 @@
     font-weight: bold;
 }
 
-.cursos{
+#divcc{
     text-align: center;
+    display: none;
+}
+
+#divfilo{
+    text-align: center;
+    display: none;
 }
